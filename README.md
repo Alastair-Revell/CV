@@ -1,6 +1,7 @@
-## Your Name
+## Alastair Revell
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A recent graduate of Bristol University in Economics and Management (2:1), with an interest in analysing financial markets.
+Recently finished an internship with J.P. Morgan. 
 
 ## Skills
 
@@ -23,28 +24,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (4th Feurary)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code. 
+- Fast, independent learner 
+- Great collaborator
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Bristol University (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Economics and Management
+- 2:1
+- National Finalist in Academic Essays
 
-#### Any other qualifications
+#### Oxford University 
+- Algorithmic Trading
 
 ## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+  
